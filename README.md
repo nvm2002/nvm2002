@@ -54,7 +54,7 @@ Ang aking arsenal para sa paggawa ng premium digital blueprints:
 ## 🔗 Connect With The Sovereign
 Huwag lang manood, makilahok sa kilusan. I-activate ang iyong node:
 
-*   **📸 Instagram**: [@ralphmaypa](https://www.instagram.com/ralphmaypa/) - *Empire Aesthetics & Daily Signals*
+*   **📸 Instagram**: [@ralphmaypa](https://www.instagram.com/butchiboyyy/) - *Empire Aesthetics & Daily Signals*
 *   **💼 Upwork**: [Professional Node](https://www.upwork.com/) - *Executive Blueprints & High-Tech Castings*
 *   **🌌 Website**: [Butch-Signal Live](https://butch-signal.com) - *The Absolute Gateway*
 
