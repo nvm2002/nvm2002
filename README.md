@@ -3,9 +3,9 @@
 
 <div align="center">
 
-[![Cashflow](https://img.shields.io/badge/CASHFLOW-DOMINATION-emerald?style=for-the-badge&logo=cashapp&logoColor=white)](https://butch-signal.com)
-[![Growth](https://img.shields.io/badge/GROWTH-MAXIMIZED-blue?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://butch-signal.com)
-[![Philanthropy](https://img.shields.io/badge/COMMUNITY-IMPACT-red?style=for-the-badge&logo=heart&logoColor=white)](https://butch-signal.com)
+[![Cashflow](https://img.shields.io/badge/CASHFLOW-DOMINATION-emerald?style=for-the-badge&logo=cashapp&logoColor=white)](http://localhost:5173/)
+[![Growth](https://img.shields.io/badge/GROWTH-MAXIMIZED-blue?style=for-the-badge&logo=chartdotjs&logoColor=white)](http://localhost:5173/)
+[![Philanthropy](https://img.shields.io/badge/COMMUNITY-IMPACT-red?style=for-the-badge&logo=heart&logoColor=white)](http://localhost:5173/)
 
 </div>
 
